@@ -1,0 +1,168 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "windsurf-folder-tint/out/types.js/",
+            "color": "foldercolorizer.color_ff9933"
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/CHANGELOG.md/",
+            "color": "foldercolorizer.color_cc3300",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/",
+            "color": "foldercolorizer.color_ff9933",
+            "badge": "CC",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/.bin/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@aashutoshrathi/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@ampproject/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@babel/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@bcoe/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@eslint/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@eslint-community/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@humanwhocodes/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@isaacs/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@istanbuljs/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@jest/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@jridgewell/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@nodelib/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@pkgjs/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@sinclair/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@sinonjs/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@tootallnate/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@types/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@typescript-eslint/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@vscode/",
+            "color": "foldercolorizer.color_ffcc66"
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/acorn/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/acorn-jsx/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/agent-base/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/ajv/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/ansi-escapes/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/ansi-regex/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/ansi-styles/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/anymatch/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/argparse/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        },
+        {
+            "folderPath": "windsurf-folder-tint/project/node_modules/@vscode/test-electron/",
+            "color": "foldercolorizer.color_99cc66",
+            "nodeOnly": true
+        }
+    ]
+}

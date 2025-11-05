@@ -1,0 +1,319 @@
+[
+  {
+    "emoji": "💾",
+    "description": "floppy disk",
+    "category": "Objects",
+    "aliases": ["floppy_disk"],
+    "tags": ["save", "storage", "disk"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🔧",
+    "description": "wrench",
+    "category": "Objects",
+    "aliases": ["wrench"],
+    "tags": ["tools", "fix", "repair"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "📀",
+    "description": "dvd",
+    "category": "Objects",
+    "aliases": ["dvd"],
+    "tags": ["disk", "storage", "media"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🛠️",
+    "description": "hammer and wrench",
+    "category": "Objects",
+    "aliases": ["hammer_and_wrench"],
+    "tags": ["tools", "fix", "build"],
+    "unicode_version": "11.0",
+    "ios_version": "12.1"
+  }
+  ,
+  {
+    "emoji": "⚙️",
+    "description": "gear",
+    "category": "Objects",
+    "aliases": ["gear"],
+    "tags": ["settings", "config", "mechanism"],
+    "unicode_version": "4.1",
+    "ios_version": "9.1"
+  },
+  {
+    "emoji": "🔌",
+    "description": "electric plug",
+    "category": "Objects",
+    "aliases": ["electric_plug"],
+    "tags": ["power", "electricity", "connection"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🕸️",
+    "description": "spider web",
+    "category": "Animals & Nature",
+    "aliases": ["spider_web"],
+    "tags": ["web", "network", "internet"],
+    "unicode_version": "7.0",
+    "ios_version": "9.1"
+  }
+  ,
+  {
+    "emoji": "🖥️",
+    "description": "desktop computer",
+    "category": "Objects",
+    "aliases": ["desktop_computer"],
+    "tags": ["computer", "desktop", "monitor"],
+    "unicode_version": "7.0",
+    "ios_version": "9.1"
+  }
+  ,
+  {
+    "emoji": "🔑",
+    "description": "key",
+    "category": "Objects",
+    "aliases": ["key"],
+    "tags": ["lock", "security", "access"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  }
+  ,
+  {
+    "emoji": "✉️",
+    "description": "envelope",
+    "category": "Objects",
+    "aliases": ["envelope"],
+    "tags": ["mail", "email", "message"],
+    "unicode_version": "1.1",
+    "ios_version": "6.0"
+  }
+  ,
+  {
+    "emoji": "🏷️",
+    "description": "label",
+    "category": "Objects",
+    "aliases": ["label"],
+    "tags": ["tag", "name", "mark"],
+    "unicode_version": "7.0",
+    "ios_version": "9.1"
+  }
+  ,
+  {
+    "emoji": "🗄️",
+    "description": "file cabinet",
+    "category": "Objects",
+    "aliases": ["file_cabinet"],
+    "tags": ["storage", "files", "organize"],
+    "unicode_version": "7.0",
+    "ios_version": "9.1"
+  }
+  ,
+  {
+    "emoji": "🗑️",
+    "description": "wastebasket",
+    "category": "Objects",
+    "aliases": ["wastebasket"],
+    "tags": ["trash", "delete", "bin"],
+    "unicode_version": "7.0",
+    "ios_version": "9.1"
+  }
+  ,
+  {
+    "emoji": "🔍",
+    "description": "magnifying glass tilted left",
+    "category": "Objects",
+    "aliases": ["mag"],
+    "tags": ["search", "find", "zoom"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  }
+  ,
+  {
+    "emoji": "🔐",
+    "description": "closed lock with key",
+    "category": "Objects",
+    "aliases": ["closed_lock_with_key"],
+    "tags": ["security", "private", "locked"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  }
+  ,
+  {
+    "emoji": "🔴",
+    "description": "red circle",
+    "category": "Symbols",
+    "aliases": ["red_circle"],
+    "tags": ["red", "color", "circle"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🟠",
+    "description": "orange circle",
+    "category": "Symbols",
+    "aliases": ["orange_circle"],
+    "tags": ["orange", "color", "circle"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟡",
+    "description": "yellow circle",
+    "category": "Symbols",
+    "aliases": ["yellow_circle"],
+    "tags": ["yellow", "color", "circle"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟢",
+    "description": "green circle",
+    "category": "Symbols",
+    "aliases": ["green_circle"],
+    "tags": ["green", "color", "circle"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🔵",
+    "description": "blue circle",
+    "category": "Symbols",
+    "aliases": ["blue_circle"],
+    "tags": ["blue", "color", "circle"],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🟣",
+    "description": "purple circle",
+    "category": "Symbols",
+    "aliases": ["purple_circle"],
+    "tags": ["purple", "color", "circle"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  }
+  ,
+  {
+    "emoji": "⚫️",
+    "description": "black circle",
+    "category": "Symbols",
+    "aliases": ["black_circle"],
+    "tags": ["black", "color", "circle"],
+    "unicode_version": "4.1",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "⚪️",
+    "description": "white circle",
+    "category": "Symbols",
+    "aliases": ["white_circle"],
+    "tags": ["white", "color", "circle"],
+    "unicode_version": "4.1",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🟤",
+    "description": "brown circle",
+    "category": "Symbols",
+    "aliases": ["brown_circle"],
+    "tags": ["brown", "color", "circle"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟥",
+    "description": "red square",
+    "category": "Symbols",
+    "aliases": ["red_square"],
+    "tags": ["red", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟧",
+    "description": "orange square",
+    "category": "Symbols",
+    "aliases": ["orange_square"],
+    "tags": ["orange", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟨",
+    "description": "yellow square",
+    "category": "Symbols",
+    "aliases": ["yellow_square"],
+    "tags": ["yellow", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟩",
+    "description": "green square",
+    "category": "Symbols",
+    "aliases": ["green_square"],
+    "tags": ["green", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟦",
+    "description": "blue square",
+    "category": "Symbols",
+    "aliases": ["blue_square"],
+    "tags": ["blue", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟪",
+    "description": "purple square",
+    "category": "Symbols",
+    "aliases": ["purple_square"],
+    "tags": ["purple", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "⬛️",
+    "description": "black large square",
+    "category": "Symbols",
+    "aliases": ["black_large_square"],
+    "tags": ["black", "color", "square"],
+    "unicode_version": "5.1",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "⬜️",
+    "description": "white large square",
+    "category": "Symbols",
+    "aliases": ["white_large_square"],
+    "tags": ["white", "color", "square"],
+    "unicode_version": "5.1",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🟫",
+    "description": "brown square",
+    "category": "Symbols",
+    "aliases": ["brown_square"],
+    "tags": ["brown", "color", "square"],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "⭐️",
+    "description": "star",
+    "category": "Travel & Places",
+    "aliases": ["star"],
+    "tags": ["star", "favorite", "important"],
+    "unicode_version": "5.1",
+    "ios_version": "6.0"
+  }
+]

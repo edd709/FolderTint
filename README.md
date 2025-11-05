@@ -1,0 +1,1 @@
+# windsurf-folder-color

@@ -1,0 +1,205 @@
+{
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "author": {
+    "email": "erio.daniel.diaz@gmail.com",
+    "name": "ErioDanielDiaz"
+  },
+  "categories": [
+    "Other"
+  ],
+  "contributes": {
+    "colors": [
+      {
+        "defaults": {
+          "dark": "#cc3300",
+          "highContrast": "#cc3300",
+          "highContrastLight": "#cc3300",
+          "light": "#cc3300"
+        },
+        "description": "Red",
+        "id": "foldercolorizer.color_cc3300"
+      },
+      {
+        "defaults": {
+          "dark": "#ff9933",
+          "highContrast": "#ff9933",
+          "highContrastLight": "#ff9933",
+          "light": "#ff9933"
+        },
+        "description": "Orange",
+        "id": "foldercolorizer.color_ff9933"
+      },
+      {
+        "defaults": {
+          "dark": "#ffcc66",
+          "highContrast": "#ffcc66",
+          "highContrastLight": "#ffcc66",
+          "light": "#ffcc66"
+        },
+        "description": "Yellow",
+        "id": "foldercolorizer.color_ffcc66"
+      },
+      {
+        "defaults": {
+          "dark": "#99cc66",
+          "highContrast": "#99cc66",
+          "highContrastLight": "#99cc66",
+          "light": "#99cc66"
+        },
+        "description": "Green",
+        "id": "foldercolorizer.color_99cc66"
+      },
+      {
+        "defaults": {
+          "dark": "#6699ff",
+          "highContrast": "#6699ff",
+          "highContrastLight": "#6699ff",
+          "light": "#6699ff"
+        },
+        "description": "Blue",
+        "id": "foldercolorizer.color_6699ff"
+      },
+      {
+        "defaults": {
+          "dark": "#9966ff",
+          "highContrast": "#9966ff",
+          "highContrastLight": "#9966ff",
+          "light": "#9966ff"
+        },
+        "description": "Purple",
+        "id": "foldercolorizer.color_9966ff"
+      }
+    ],
+    "commands": [
+      {
+        "command": "folder-tint.applyTint",
+        "title": "1 Apply tint branch"
+      },
+      {
+        "command": "folder-tint.applyTintNode",
+        "title": "2 Apply tint node"
+      },
+      {
+        "command": "folder-tint.apllyLabel",
+        "title": "3 Apply label"
+      },
+      {
+        "command": "folder-tint.applyIcon",
+        "title": "4 Apply icon"
+      },
+      {
+        "command": "folder-tint.copyStyle",
+        "title": "5 Copy style"
+      },
+      {
+        "command": "folder-tint.pasteStyle",
+        "title": "6 Paste style"
+      },
+      {
+        "command": "folder-tint.resetChanges",
+        "title": "7 Reset changes"
+      }
+    ],
+    "configuration": {
+      "properties": {
+        "folder-color.pathColors": {
+          "default": [],
+          "description": "",
+          "items": {
+            "properties": {
+              "badge": {
+                "type": "string"
+              },
+              "color": {
+                "type": "string"
+              },
+              "folderPath": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "color",
+              "folderPath"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        }
+      },
+      "title": "FolderColorizer"
+    },
+    "menus": {
+      "explorer/context": [
+        {
+          "submenu": "folderTint"
+        }
+      ],
+      "folderTint": [
+        {
+          "command": "folder-tint.applyTint"
+        },
+        {
+          "command": "folder-tint.applyTintNode"
+        },
+        {
+          "command": "folder-tint.apllyLabel"
+        },
+        {
+          "command": "folder-tint.applyIcon"
+        },
+        {
+          "command": "folder-tint.copyStyle"
+        },
+        {
+          "command": "folder-tint.pasteStyle"
+        },
+        {
+          "command": "folder-tint.resetChanges"
+        }
+      ]
+    },
+    "submenus": [
+      {
+        "id": "folderTint",
+        "label": "Folder Tint"
+      }
+    ]
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1"
+  },
+  "description": "Folder Tint for Visual Studio Code and Windsurf is a simple and extremely lightweight extension for tinting, applying icons, and adding badges to project folders and files.",
+  "devDependencies": {
+    "@types/node": "18.x",
+    "@types/vscode": "^1.83.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
+    "@vscode/test-electron": "^2.3.4",
+    "eslint": "^8.50.0",
+    "glob": "^10.3.3",
+    "typescript": "^5.2.2"
+  },
+  "displayName": "Folder Tint",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "icon": "./icon.png",
+  "main": "./out/extension.js",
+  "name": "folder-tint",
+  "publisher": "ErioDanielDiaz",
+  "repository": "https://github.com/edd709/windsurf-folder-tint.git",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "lint": "eslint src --ext ts",
+    "pretest": "npm run compile && npm run lint",
+    "publish": "vsce publish",
+    "test": "jest",
+    "vscode:prepublish": "npm run compile",
+    "watch": "tsc -watch -p ./"
+  },
+  "version": "1.0.0"
+}
