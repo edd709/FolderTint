@@ -1,0 +1,62 @@
+[
+    {
+        "id": "foldercolorizer.color_cc3300",
+        "defaults": {
+            "dark": "#cc3300",
+            "light": "#cc3300",
+            "highContrast": "#cc3300",
+            "highContrastLight": "#cc3300"
+        },
+        "description": "Red"
+    },
+    {
+        "id": "foldercolorizer.color_ff9933",
+        "defaults": {
+            "dark": "#ff9933",
+            "light": "#ff9933",
+            "highContrast": "#ff9933",
+            "highContrastLight": "#ff9933"
+        },
+        "description": "Orange"
+    },
+    {
+        "id": "foldercolorizer.color_ffcc66",
+        "defaults": {
+            "dark": "#ffcc66",
+            "light": "#ffcc66",
+            "highContrast": "#ffcc66",
+            "highContrastLight": "#ffcc66"
+        },
+        "description": "Yellow"
+    },
+    {
+        "id": "foldercolorizer.color_99cc66",
+        "defaults": {
+            "dark": "#99cc66",
+            "light": "#99cc66",
+            "highContrast": "#99cc66",
+            "highContrastLight": "#99cc66"
+        },
+        "description": "Green"
+    },
+    {
+        "id": "foldercolorizer.color_6699ff",
+        "defaults": {
+            "dark": "#6699ff",
+            "light": "#6699ff",
+            "highContrast": "#6699ff",
+            "highContrastLight": "#6699ff"
+        },
+        "description": "Blue"
+    },
+    {
+        "id": "foldercolorizer.color_9966ff",
+        "defaults": {
+            "dark": "#9966ff",
+            "light": "#9966ff",
+            "highContrast": "#9966ff",
+            "highContrastLight": "#9966ff"
+        },
+        "description": "Purple"
+    }
+]
